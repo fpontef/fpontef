@@ -1,6 +1,7 @@
 ### Olá! Sou Fernando Ponte Filho 👋
 
 - 🔭 No momento trabalhando em projetos pessoais.
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo: Typescript, redux-saga, clean code e css design.
 - 👯 Estou procurando ofertas de trabalho em front-end com reactjs ou trainee com nodejs/fullstack.
 - 📫 Mande uma mensagem via github!
