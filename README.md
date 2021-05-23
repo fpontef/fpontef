@@ -1,9 +1,10 @@
 ### Olá! Sou Fernando Ponte Filho 👋
 
 - 🔭 No momento trabalhando em projetos pessoais.
-- 🌱 Aprendendo: Typescript, redux-saga, clean code e css design
+- 🌱 Aprendendo: Typescript, redux-saga, clean code e css design.
 - 👯 Estou procurando ofertas de trabalho em front-end com reactjs ou trainee com nodejs/fullstack.
 - 📫 Mande uma mensagem via github!
+- ⚡ Fun fact: Sou de Sobral, interior do Ceará, mas acabei indo parar em Rio Grande/RS.
 
 <!--
 **fpontef/fpontef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
