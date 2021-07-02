@@ -2,7 +2,7 @@
 
 - 🔭 No momento trabalhando em projetos pessoais.
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo: Typescript, redux-saga, clean code e css design.
+- 🌱 Aprendendo: React Native c/ Expo, Typescript, redux-saga, clean code e css design.
 - 👯 Estou procurando ofertas de trabalho em front-end com reactjs ou trainee com nodejs/fullstack.
 - 📫 Mande uma mensagem via github!
 - ⚡ Fun fact: Sou de Sobral, interior do Ceará, mas acabei indo parar em Rio Grande/RS.
