@@ -1,11 +1,8 @@
 ### Olá! Sou Fernando Ponte Filho 👋
 
-- 🔭 No momento trabalhando em projetos pessoais.
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo: Java, JSP, JSF, Spring Boot, React Native c/ Expo, Typescript, redux-saga, clean code e css design.
-- 👯 Estou procurando ofertas de trabalho em front-end com reactjs ou trainee com nodejs/fullstack.
-- ⚡ Fun fact: Sou de Sobral, interior do Ceará, mas resido em Rio Grande/RS.
-
+- 🌱 Java, JSP, JSF, Spring Boot, React Native, Expo, Typescript, ReactJS, NextJS...
+  
 <!--
 **fpontef/fpontef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
